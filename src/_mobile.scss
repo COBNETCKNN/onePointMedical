@@ -1,0 +1,32 @@
+@media (max-width: 768px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .menu-item {
+        display: flex;
+        justify-content: center;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .hero_title {
+        font-size: 40px !important;
+    }
+
+    .hero_content__text {
+        p {
+            font-size: 20px !important;
+        }
+    }
+
+    .hero_image {
+        height: 400px !important;
+        margin-top: 2rem !important;
+    }
+
+    #whyChooseUs {
+        padding-top: 0px !important;
+    }
+}
